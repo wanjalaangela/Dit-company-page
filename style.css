@@ -3,9 +3,13 @@
     gap: 3cm;
     
 }
-body{
-
-}
+@media only screen and (max-width: 600px) {
+    .navig-bar {grid-area: 1 / span 6;}
+    .aboutdit {grid-area: 2 / span 6;}
+    .software-companies {grid-area: 3 / span 6;}
+    .products{grid-area: 4 / span 6;}
+    .footer-content{grid-area: 5 / span 6;}
+   }
 .container{
     padding-left: 3cm;
     padding-right: 3cm;
@@ -402,4 +406,8 @@ list-style-type: none;
     color: white;
     height: 3cm;
     padding: 1cm;
+}
+.how-to-download{
+    display: flex;
+    gap: 10cm;
 }
