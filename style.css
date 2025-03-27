@@ -35,8 +35,10 @@
 }
 .dashboard a{
 text-decoration: none;
-margin-left: cm;
 
+}
+#feature{
+    margin-right: 5cm;
 }
 .login a{
  text-decoration:none ;
@@ -53,6 +55,7 @@ margin-left: cm;
     display: flex;
     gap: 9cm;
     margin-top: 3cm;
+    
 
 }
 .right-aboutdit{
@@ -119,6 +122,24 @@ margin-left: cm;
    border-radius: 1cm;
    rotate: -6deg;
 }
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+#platform a{
+color: rgb(26, 26, 37);
+}
+#businesses{
+    font-size: xx-large;
+    opacity: 30%;
+    font-weight: bolder;
+}
+#work-product{
+    font-size: xx-large;
+}
+#work-product a{
+color: red;
+}
 .software-companies{
     margin-top: 3cm;
 }
@@ -152,7 +173,8 @@ gap: 1cm;
     margin-right: 2cm;
 }
 .products{
-background-color: rgb(216, 237, 253);
+background-color: rgb(231, 243, 252);
+border-radius: 2cm;
 }
 .individual-products{
     display: flex;
@@ -165,13 +187,18 @@ text-align: center;
 padding-top: 2cm;
 }
 #interface{
-    width: 9cm;
-    height: 5cm;
+    width: 7cm;
+    height: 6cm;
     border: 1px solid;
     border-color: rgb(250, 98, 124);;
     border-radius: 1cm;
     text-align: center;
-    padding-top: 3cm;
+    padding: 2cm;
+    margin-left: 1cm;
+    margin-bottom: 1.5cm;
+    
+    
+    
 }
 #transfers{
     width: 9cm;
@@ -188,24 +215,40 @@ text-align: center;
 padding-top: 3cm;
 } 
 #first-star{
-    width: 1cm;
+    width: 1.5cm;
     height: 1cm;
-    border-radius: 1cm;
+    border-radius: 1.2cm;
     background-color: pink;
+    padding-top: 0.5cm;
 
 }
 .fa-sliders{
-    width: 1cm;
+    width: 1.5cm;
     height: 1cm;
-    border-radius: 1cm;
+    border-radius: 1.2cm;
     background-color: rgb(164, 208, 238);
+    padding-top: 0.5cm;
 }
 .fa-feather{
-    width: 1cm;
+    width: 1.5cm;
     height: 1cm;
-    border-radius: 1cm;
+    border-radius: 1.2cm;
     background-color: rgb(216, 214, 214); 
+    padding-top: 0.5cm;
 
+}
+#dit-numbers{
+    font-size: xx-large;
+}
+#in-numbers{
+    font-size: xx-large;
+}
+#in-numbers a{
+    color: red;
+}
+#lorem{
+    font-size: larger;
+    opacity: 40%;
 }
 #subscribers{
     display: flex;
@@ -229,7 +272,7 @@ padding-top: 3cm;
     border-radius: 0.7cm;
     background-color: white;
     position: absolute;
-    top: 51.6cm;
+    top: 56.5cm;
     padding: 0.5cm;
     margin-left: 4.7cm;
 }
@@ -384,9 +427,9 @@ padding-top: 3cm;
 .how-to-download{
     margin-top: 3cm;
 }
-#left{
+#user-left{
     width: 10cm;
-    height: 5cm;
+    height: 6cm;
 }
 .footer-content{
     display: flex;
@@ -395,6 +438,7 @@ padding-top: 3cm;
     color: white;
     height: 5cm;
     padding: 1cm;
+    margin-top: 3cm;
 }
 .footer-content ul{
 list-style-type: none;
@@ -411,3 +455,27 @@ list-style-type: none;
     display: flex;
     gap: 10cm;
 }
+#apple{
+    width: 3cm;
+    height: 1.3cm;
+    border-radius: 0.5cm;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+#playstore{
+    width: 3cm;
+    height: 1.3cm;
+    border-radius: 0.5cm;
+    margin-left: 0.5cm;
+    cursor: pointer;
+} 
+#dit-download{
+    font-size: xx-large;
+}
+#dit-icon{
+    width: 1cm;
+    height: 1cm;
+    border-radius: 0.5cm;
+}
+
