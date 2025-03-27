@@ -1,0 +1,280 @@
+.navig-bar{
+    display: flex;
+    gap: 3cm;
+    
+}
+body{
+
+}
+.container{
+    padding-left: 3cm;
+    padding-right: 3cm;
+    
+
+}
+.dashboard{
+    margin-left: 12cm;
+}
+#signup-button{
+    margin-left: 1cm;
+  border-radius: 20px;
+  height: 1.4cm;
+  width: 3.5cm;
+  color: white;
+  background-color: rgb(243, 133, 152);
+  border: none;
+
+}
+.dashboard{
+    margin-top: 0.5cm;
+
+}
+.dashboard a{
+text-decoration: none;
+margin-left: cm;
+
+}
+.login a{
+ text-decoration:none ;
+}
+#first-profile{
+    height: 3cm;
+    width: 3cm;
+    border-radius: 2cm;
+    border: 5px solid;
+    border-color: rgb(250, 98, 124);
+    
+}
+.aboutdit{
+    display: flex;
+    gap: 9cm;
+    margin-top: 3cm;
+
+}
+.right-aboutdit{
+ margin-left: 5cm;
+}
+#fine{
+    color: rgb(0, 119, 255);
+    width: 6cm;
+    height: 1cm;
+    background-color: rgb(171, 215, 235);
+    padding: 0.5cm;
+    border-radius: 0.6cm;
+
+}
+#rogers-profile{
+    display: flex;
+    gap: 2cm;
+}
+.role-workdays{
+    display: flex;
+    margin-top: 1cm;
+}
+#workdays{
+    margin-left: 5cm;
+    margin-top: 0.9cm;
+}
+.Salary-range{
+    display: flex;
+    gap: 2cm;
+    margin-top: 1cm;
+}
+#pink-image{
+    
+}
+#pinky{
+    width: 6cm;
+    height: 6cm;
+    border-radius: 1cm;
+}
+#uploading{
+    display: flex;
+    width: 8cm;
+    height: 2cm;
+    border-radius: 0.6cm;
+    background-color: rgb(212, 231, 240);
+    padding: 0.6cm;
+}
+#upload-percentage{
+    margin-left: 1.5cm;
+    width: 1.8cm;
+    height: 1.8cm;
+    border-radius: 1.2cm;
+    border: 5px solid;
+    border-color: rgb(171, 215, 235);
+    text-align: center;
+    margin-top: -0.1cm;
+
+    
+}
+.aboutdit-right{
+   border: 1px solid;
+   width: 13cm;
+   padding: 0.7cm;
+   border-radius: 1cm;
+   rotate: -6deg;
+}
+.software-companies{
+    margin-top: 3cm;
+}
+.business-logos{
+display: flex;
+gap: 1cm;
+}
+#microsoft{
+    width: 5cm;
+    height: 3cm;
+   
+}
+#trello{
+    width: 5cm;
+    height: 3cm;
+}
+#google{
+    width: 6cm;
+    height: 3cm;
+}
+#dropbox{
+    width: 6cm;
+    height: 3cm;
+}
+#slack{
+    width: 6cm;
+    height: 3cm;
+}
+#businesses{
+    text-align: center;
+    margin-right: 2cm;
+}
+.products{
+background-color: rgb(216, 237, 253);
+}
+.individual-products{
+    display: flex;
+    gap: 4cm;
+    justify-content: center;
+    margin-top: 2cm;
+}
+#work-product{
+text-align: center;
+padding-top: 2cm;
+}
+#interface{
+    width: 9cm;
+    height: 5cm;
+    border: 1px solid;
+    border-color: rgb(250, 98, 124);;
+    border-radius: 1cm;
+    text-align: center;
+    padding-top: 3cm;
+}
+#transfers{
+    width: 9cm;
+    height: 5cm;
+    border-radius: 1cm;
+    text-align: center;
+    padding-top: 3cm;
+}
+#support{
+    width: 9cm;
+    height: 5cm;
+    border-radius: 1cm;
+text-align: center;
+padding-top: 3cm;
+} 
+.fa-star{
+    width: 1cm;
+    height: 1cm;
+    border-radius: 1cm;
+    background-color: pink;
+
+}
+.fa-sliders{
+    width: 1cm;
+    height: 1cm;
+    border-radius: 1cm;
+    background-color: rgb(164, 208, 238);
+}
+.fa-feather{
+    width: 1cm;
+    height: 1cm;
+    border-radius: 1cm;
+    background-color: rgb(216, 214, 214); 
+
+}
+#subscribers{
+    display: flex;
+    gap: 2cm;
+}
+#group-subscribers{
+    display: flex;
+    gap: 2cm;
+}
+.dit-users{
+    margin-top: 3cm;
+    display: flex;
+}
+.account-creation{
+    margin-left: 5cm;
+}
+#streaming{
+    display: flex;
+    width: 11cm;
+    height: 1.6cm;
+    border-radius: 0.7cm;
+    background-color: white;
+    position: absolute;
+    top: 51.6cm;
+    padding: 0.5cm;
+    margin-left: 4.7cm;
+}
+#watch{
+    margin-left: 1cm;
+    width: 3cm;
+    height: 1cm;
+    border-radius: 1cm;
+    color: white;
+    background-color: blue;
+    border: none;
+    margin-top: 0.8cm;
+}
+#study-group{
+    width: 800px;
+}
+#study-icon{
+    width: 1cm;
+    height: 0.5cm;
+    
+}
+#study-live{
+    border-radius: 0.5cm;
+    margin-top: 12cm;
+    margin-left: 17cm;
+    background-color: white;
+    position: absolute;
+    
+
+}
+#join-button{
+    width: 2.4cm;
+    height: 1cm;
+    border-radius: 1cm;
+    color: white;
+    background-color: rgb(243, 133, 152);
+    border: none;
+}
+#study-icon{
+    
+}
+#phone{
+    width: 2cm;
+    height: 1cm;
+}
+#know-button{
+    width: 4cm;
+    height: 1.4cm;
+    border-radius: 0.5cm;
+    color: white;
+    background-color: rgb(7, 7, 29);
+}
