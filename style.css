@@ -183,7 +183,7 @@ padding-top: 2cm;
 text-align: center;
 padding-top: 3cm;
 } 
-.fa-star{
+#first-star{
     width: 1cm;
     height: 1cm;
     border-radius: 1cm;
@@ -268,7 +268,7 @@ padding-top: 3cm;
     
 }
 #phone{
-    width: 2cm;
+    width: 1cm;
     height: 1cm;
 }
 #know-button{
@@ -277,4 +277,129 @@ padding-top: 3cm;
     border-radius: 0.5cm;
     color: white;
     background-color: rgb(7, 7, 29);
+}
+#global-help{
+    text-align: center;
+}
+#angelinas-picture{
+    width: 4cm;
+    height: 4cm;
+    border-radius: 5cm;
+    margin-top: 1cm;
+}
+#bell{
+    margin-top: 1cm;
+}
+#arrow{
+    margin-top: 1cm;
+}
+.jorinas-profile{
+    display: flex;
+    gap: 1.5cm;
+    margin-top: 1cm;
+    background-color: white;
+
+}
+.customer-interface{
+    display: flex;
+    margin-top: 3cm;
+    background-color: rgb(252, 233, 236);
+    padding: 1cm;
+    border-radius: 2cm;
+}
+.settings{
+    margin-left: 5cm;
+    rotate: 5deg;
+    background-color: white;
+    padding: 0.5cm;
+    border-radius: 1cm;
+}
+.user-login{
+    margin-left: 5cm;
+    rotate: 5deg;
+
+}
+#tim-david{
+    margin-left: 2cm;
+}
+#designer{
+    margin-left: 2.5cm;
+}
+#tims-language{
+    margin-left: 2cm;
+}
+#english{
+    margin-left: 2cm;
+}
+#app-login{
+    width: 6cm;
+    height: 1.5cm;
+    border-radius: 0.5cm;
+}
+#app-signup{
+    width: 6cm;
+    height: 1.5cm;
+    border-radius: 0.5cm;
+    background-color: rgb(243, 133, 152);
+    color: white;
+    border: none;
+}
+#edwins-rate{
+    display: flex;
+    gap: 6cm;
+}
+#star-rate{
+    margin-top: 2.5cm;
+}
+#jecks-picture{
+    width: 4cm;
+    height: 4cm;
+    border-radius: 5cm;
+    margin-top: 1cm;  
+}
+#jecksons-rate{
+    display: flex;
+    gap: 6cm;
+}
+#jecks-rate{
+    margin-top: 2.5cm;
+    color: #FFD43B;
+}
+.client-testimonials{
+    display: flex;
+}
+#jecksons-testimony{
+    margin-left: 10cm;
+}
+#edwins-testimony{
+    border: 1px solid;
+    border-color:  rgb(243, 133, 152);
+    padding: 1cm;
+    border-radius: 1cm;
+}
+.how-to-download{
+    margin-top: 3cm;
+}
+#left{
+    width: 10cm;
+    height: 5cm;
+}
+.footer-content{
+    display: flex;
+    gap: 4cm;
+    background-color: rgb(17, 17, 37);
+    color: white;
+    height: 5cm;
+    padding: 1cm;
+}
+.footer-content ul{
+list-style-type: none;
+}
+#rights{
+    display: flex;
+    gap: 5cm;
+    background-color: black;
+    color: white;
+    height: 3cm;
+    padding: 1cm;
 }
